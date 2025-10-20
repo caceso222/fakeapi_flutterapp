@@ -1,1 +1,46 @@
+{
+  "glossario": [
+    {
+      "termo": "Câncer",
+      "definicao": "Crescimento descontrolado de células anormais no corpo que podem invadir tecidos e órgãos."
+    },
+    {
+      "termo": "Quimioterapia",
+      "definicao": "Tratamento que usa medicamentos para destruir células cancerígenas."
+    },
+    {
+      "termo": "Radioterapia",
+      "definicao": "Tratamento que utiliza radiação para eliminar células tumorais."
+    },
+    {
+      "termo": "Metástase",
+      "definicao": "Disseminação do câncer para outras partes do corpo além do local original."
+    },
+    {
+      "termo": "PSA",
+      "definicao": "Antígeno Prostático Específico, exame usado para detectar câncer de próstata."
+    },
+    {
+      "termo": "Papanicolau",
+      "definicao": "Exame para detectar câncer de colo do útero."
+    },
+    
+    {
+      "termo": "BRCA",
+      "definicao": "Genes associados ao risco aumentado de câncer de mama e ovário."
+    },
+    {
+      "termo": "Carcinoma",
+      "definicao": "Tipo de câncer que começa em células epiteliais."
+    },
+    {
+      "termo": "CA 125",
+      "definicao": "Marcador tumoral usado para monitorar câncer de ovário."
+    },
+    {
+      "termo": "Leucemia",
+      "definicao": "Tipo de câncer que afeta os tecidos que formam o sangue, comum em crianças."
+    }
+  ]
+}
 
